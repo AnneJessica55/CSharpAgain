@@ -1,0 +1,6 @@
+﻿Compilação iniciada...
+1>------ Compilação iniciada: Projeto: WindowEx000, Configuração: Debug Any CPU ------
+1>Ignorando analisadores para acelerar a construção. Você pode executar o comando 'Build' ou 'Rebuild' para executar os analisadores.
+1>WindowEx000 -> C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\WindowEx000\WindowEx000\bin\Debug\net7.0-windows\WindowEx000.dll
+========== Compilação: 1 bem-sucedida, 0 com falha, 0 atualizada, 0 ignorada ==========
+========== Compilação começou em 10:10 AM e levou 00,405 segundos ==========

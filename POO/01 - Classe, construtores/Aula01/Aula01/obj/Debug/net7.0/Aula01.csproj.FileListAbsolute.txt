@@ -1,0 +1,15 @@
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\POO\Aula01\Aula01\bin\Debug\net7.0\Aula01.exe
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\POO\Aula01\Aula01\bin\Debug\net7.0\Aula01.deps.json
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\POO\Aula01\Aula01\bin\Debug\net7.0\Aula01.runtimeconfig.json
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\POO\Aula01\Aula01\bin\Debug\net7.0\Aula01.dll
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\POO\Aula01\Aula01\bin\Debug\net7.0\Aula01.pdb
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\POO\Aula01\Aula01\obj\Debug\net7.0\Aula01.csproj.AssemblyReference.cache
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\POO\Aula01\Aula01\obj\Debug\net7.0\Aula01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\POO\Aula01\Aula01\obj\Debug\net7.0\Aula01.AssemblyInfoInputs.cache
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\POO\Aula01\Aula01\obj\Debug\net7.0\Aula01.AssemblyInfo.cs
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\POO\Aula01\Aula01\obj\Debug\net7.0\Aula01.csproj.CoreCompileInputs.cache
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\POO\Aula01\Aula01\obj\Debug\net7.0\Aula01.dll
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\POO\Aula01\Aula01\obj\Debug\net7.0\refint\Aula01.dll
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\POO\Aula01\Aula01\obj\Debug\net7.0\Aula01.pdb
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\POO\Aula01\Aula01\obj\Debug\net7.0\Aula01.genruntimeconfig.cache
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\POO\Aula01\Aula01\obj\Debug\net7.0\ref\Aula01.dll

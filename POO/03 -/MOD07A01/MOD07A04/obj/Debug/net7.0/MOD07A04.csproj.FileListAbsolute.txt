@@ -1,0 +1,15 @@
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\03 -\MOD07A01\MOD07A04\bin\Debug\net7.0\MOD07A04.exe
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\03 -\MOD07A01\MOD07A04\bin\Debug\net7.0\MOD07A04.deps.json
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\03 -\MOD07A01\MOD07A04\bin\Debug\net7.0\MOD07A04.runtimeconfig.json
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\03 -\MOD07A01\MOD07A04\bin\Debug\net7.0\MOD07A04.dll
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\03 -\MOD07A01\MOD07A04\bin\Debug\net7.0\MOD07A04.pdb
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\03 -\MOD07A01\MOD07A04\obj\Debug\net7.0\MOD07A04.csproj.AssemblyReference.cache
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\03 -\MOD07A01\MOD07A04\obj\Debug\net7.0\MOD07A04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\03 -\MOD07A01\MOD07A04\obj\Debug\net7.0\MOD07A04.AssemblyInfoInputs.cache
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\03 -\MOD07A01\MOD07A04\obj\Debug\net7.0\MOD07A04.AssemblyInfo.cs
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\03 -\MOD07A01\MOD07A04\obj\Debug\net7.0\MOD07A04.csproj.CoreCompileInputs.cache
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\03 -\MOD07A01\MOD07A04\obj\Debug\net7.0\MOD07A04.dll
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\03 -\MOD07A01\MOD07A04\obj\Debug\net7.0\refint\MOD07A04.dll
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\03 -\MOD07A01\MOD07A04\obj\Debug\net7.0\MOD07A04.pdb
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\03 -\MOD07A01\MOD07A04\obj\Debug\net7.0\MOD07A04.genruntimeconfig.cache
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\03 -\MOD07A01\MOD07A04\obj\Debug\net7.0\ref\MOD07A04.dll

@@ -1,0 +1,15 @@
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\02 - Arrays, componentes de memória e listas\M6A01\Fix01\bin\Debug\net7.0\Fix01.exe
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\02 - Arrays, componentes de memória e listas\M6A01\Fix01\bin\Debug\net7.0\Fix01.deps.json
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\02 - Arrays, componentes de memória e listas\M6A01\Fix01\bin\Debug\net7.0\Fix01.runtimeconfig.json
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\02 - Arrays, componentes de memória e listas\M6A01\Fix01\bin\Debug\net7.0\Fix01.dll
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\02 - Arrays, componentes de memória e listas\M6A01\Fix01\bin\Debug\net7.0\Fix01.pdb
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\02 - Arrays, componentes de memória e listas\M6A01\Fix01\obj\Debug\net7.0\Fix01.csproj.AssemblyReference.cache
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\02 - Arrays, componentes de memória e listas\M6A01\Fix01\obj\Debug\net7.0\Fix01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\02 - Arrays, componentes de memória e listas\M6A01\Fix01\obj\Debug\net7.0\Fix01.AssemblyInfoInputs.cache
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\02 - Arrays, componentes de memória e listas\M6A01\Fix01\obj\Debug\net7.0\Fix01.AssemblyInfo.cs
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\02 - Arrays, componentes de memória e listas\M6A01\Fix01\obj\Debug\net7.0\Fix01.csproj.CoreCompileInputs.cache
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\02 - Arrays, componentes de memória e listas\M6A01\Fix01\obj\Debug\net7.0\Fix01.dll
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\02 - Arrays, componentes de memória e listas\M6A01\Fix01\obj\Debug\net7.0\refint\Fix01.dll
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\02 - Arrays, componentes de memória e listas\M6A01\Fix01\obj\Debug\net7.0\Fix01.pdb
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\02 - Arrays, componentes de memória e listas\M6A01\Fix01\obj\Debug\net7.0\Fix01.genruntimeconfig.cache
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\02 - Arrays, componentes de memória e listas\M6A01\Fix01\obj\Debug\net7.0\ref\Fix01.dll

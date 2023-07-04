@@ -1,0 +1,5 @@
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\POO\Aula05\Aula05\obj\Debug\net7.0\Aula05.csproj.AssemblyReference.cache
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\POO\Aula05\Aula05\obj\Debug\net7.0\Aula05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\POO\Aula05\Aula05\obj\Debug\net7.0\Aula05.AssemblyInfoInputs.cache
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\POO\Aula05\Aula05\obj\Debug\net7.0\Aula05.AssemblyInfo.cs
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\POO\Aula05\Aula05\obj\Debug\net7.0\Aula05.csproj.CoreCompileInputs.cache

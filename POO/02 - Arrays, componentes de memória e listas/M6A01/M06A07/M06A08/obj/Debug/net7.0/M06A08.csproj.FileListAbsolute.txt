@@ -1,0 +1,15 @@
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\02 - Arrays, componentes de memória e listas\M6A01\M06A07\M06A08\bin\Debug\net7.0\M06A08.exe
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\02 - Arrays, componentes de memória e listas\M6A01\M06A07\M06A08\bin\Debug\net7.0\M06A08.deps.json
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\02 - Arrays, componentes de memória e listas\M6A01\M06A07\M06A08\bin\Debug\net7.0\M06A08.runtimeconfig.json
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\02 - Arrays, componentes de memória e listas\M6A01\M06A07\M06A08\bin\Debug\net7.0\M06A08.dll
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\02 - Arrays, componentes de memória e listas\M6A01\M06A07\M06A08\bin\Debug\net7.0\M06A08.pdb
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\02 - Arrays, componentes de memória e listas\M6A01\M06A07\M06A08\obj\Debug\net7.0\M06A08.csproj.AssemblyReference.cache
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\02 - Arrays, componentes de memória e listas\M6A01\M06A07\M06A08\obj\Debug\net7.0\M06A08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\02 - Arrays, componentes de memória e listas\M6A01\M06A07\M06A08\obj\Debug\net7.0\M06A08.AssemblyInfoInputs.cache
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\02 - Arrays, componentes de memória e listas\M6A01\M06A07\M06A08\obj\Debug\net7.0\M06A08.AssemblyInfo.cs
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\02 - Arrays, componentes de memória e listas\M6A01\M06A07\M06A08\obj\Debug\net7.0\M06A08.csproj.CoreCompileInputs.cache
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\02 - Arrays, componentes de memória e listas\M6A01\M06A07\M06A08\obj\Debug\net7.0\M06A08.dll
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\02 - Arrays, componentes de memória e listas\M6A01\M06A07\M06A08\obj\Debug\net7.0\refint\M06A08.dll
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\02 - Arrays, componentes de memória e listas\M6A01\M06A07\M06A08\obj\Debug\net7.0\M06A08.pdb
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\02 - Arrays, componentes de memória e listas\M6A01\M06A07\M06A08\obj\Debug\net7.0\M06A08.genruntimeconfig.cache
+C:\Users\anne1\Documents\Cursos\CSharp\Nélio\POO\02 - Arrays, componentes de memória e listas\M6A01\M06A07\M06A08\obj\Debug\net7.0\ref\M06A08.dll

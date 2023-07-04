@@ -1,0 +1,15 @@
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Enquanto_While\ExWhile\obj\Debug\net7.0\ExWhile.csproj.AssemblyReference.cache
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Enquanto_While\ExWhile\obj\Debug\net7.0\ExWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Enquanto_While\ExWhile\obj\Debug\net7.0\ExWhile.AssemblyInfoInputs.cache
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Enquanto_While\ExWhile\obj\Debug\net7.0\ExWhile.AssemblyInfo.cs
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Enquanto_While\ExWhile\obj\Debug\net7.0\ExWhile.csproj.CoreCompileInputs.cache
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Enquanto_While\ExWhile\bin\Debug\net7.0\ExWhile.exe
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Enquanto_While\ExWhile\bin\Debug\net7.0\ExWhile.deps.json
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Enquanto_While\ExWhile\bin\Debug\net7.0\ExWhile.runtimeconfig.json
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Enquanto_While\ExWhile\bin\Debug\net7.0\ExWhile.dll
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Enquanto_While\ExWhile\bin\Debug\net7.0\ExWhile.pdb
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Enquanto_While\ExWhile\obj\Debug\net7.0\ExWhile.dll
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Enquanto_While\ExWhile\obj\Debug\net7.0\refint\ExWhile.dll
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Enquanto_While\ExWhile\obj\Debug\net7.0\ExWhile.pdb
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Enquanto_While\ExWhile\obj\Debug\net7.0\ExWhile.genruntimeconfig.cache
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Enquanto_While\ExWhile\obj\Debug\net7.0\ref\ExWhile.dll

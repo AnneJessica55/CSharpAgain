@@ -1,0 +1,15 @@
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Conceitos de Classe\Aula04\Ex1\bin\Debug\net7.0\Ex1.exe
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Conceitos de Classe\Aula04\Ex1\bin\Debug\net7.0\Ex1.deps.json
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Conceitos de Classe\Aula04\Ex1\bin\Debug\net7.0\Ex1.runtimeconfig.json
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Conceitos de Classe\Aula04\Ex1\bin\Debug\net7.0\Ex1.dll
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Conceitos de Classe\Aula04\Ex1\bin\Debug\net7.0\Ex1.pdb
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Conceitos de Classe\Aula04\Ex1\obj\Debug\net7.0\Ex1.csproj.AssemblyReference.cache
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Conceitos de Classe\Aula04\Ex1\obj\Debug\net7.0\Ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Conceitos de Classe\Aula04\Ex1\obj\Debug\net7.0\Ex1.AssemblyInfoInputs.cache
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Conceitos de Classe\Aula04\Ex1\obj\Debug\net7.0\Ex1.AssemblyInfo.cs
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Conceitos de Classe\Aula04\Ex1\obj\Debug\net7.0\Ex1.csproj.CoreCompileInputs.cache
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Conceitos de Classe\Aula04\Ex1\obj\Debug\net7.0\Ex1.dll
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Conceitos de Classe\Aula04\Ex1\obj\Debug\net7.0\refint\Ex1.dll
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Conceitos de Classe\Aula04\Ex1\obj\Debug\net7.0\Ex1.pdb
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Conceitos de Classe\Aula04\Ex1\obj\Debug\net7.0\Ex1.genruntimeconfig.cache
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Conceitos de Classe\Aula04\Ex1\obj\Debug\net7.0\ref\Ex1.dll

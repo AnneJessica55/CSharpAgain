@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MOD07A04/1.0.0": {
+        "runtime": {
+          "MOD07A04.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MOD07A04/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

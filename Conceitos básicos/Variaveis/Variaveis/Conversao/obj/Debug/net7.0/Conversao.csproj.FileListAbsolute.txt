@@ -1,0 +1,15 @@
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Variaveis\Variaveis\Conversao\bin\Debug\net7.0\Conversao.exe
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Variaveis\Variaveis\Conversao\bin\Debug\net7.0\Conversao.deps.json
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Variaveis\Variaveis\Conversao\bin\Debug\net7.0\Conversao.runtimeconfig.json
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Variaveis\Variaveis\Conversao\bin\Debug\net7.0\Conversao.dll
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Variaveis\Variaveis\Conversao\bin\Debug\net7.0\Conversao.pdb
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Variaveis\Variaveis\Conversao\obj\Debug\net7.0\Conversao.csproj.AssemblyReference.cache
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Variaveis\Variaveis\Conversao\obj\Debug\net7.0\Conversao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Variaveis\Variaveis\Conversao\obj\Debug\net7.0\Conversao.AssemblyInfoInputs.cache
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Variaveis\Variaveis\Conversao\obj\Debug\net7.0\Conversao.AssemblyInfo.cs
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Variaveis\Variaveis\Conversao\obj\Debug\net7.0\Conversao.csproj.CoreCompileInputs.cache
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Variaveis\Variaveis\Conversao\obj\Debug\net7.0\Conversao.dll
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Variaveis\Variaveis\Conversao\obj\Debug\net7.0\refint\Conversao.dll
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Variaveis\Variaveis\Conversao\obj\Debug\net7.0\Conversao.pdb
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Variaveis\Variaveis\Conversao\obj\Debug\net7.0\Conversao.genruntimeconfig.cache
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Variaveis\Variaveis\Conversao\obj\Debug\net7.0\ref\Conversao.dll

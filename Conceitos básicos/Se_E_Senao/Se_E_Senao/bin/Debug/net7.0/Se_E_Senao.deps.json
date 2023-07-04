@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Se_E_Senao/1.0.0": {
+        "runtime": {
+          "Se_E_Senao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Se_E_Senao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

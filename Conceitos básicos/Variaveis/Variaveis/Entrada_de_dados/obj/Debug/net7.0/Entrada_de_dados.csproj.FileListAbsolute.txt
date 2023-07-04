@@ -1,0 +1,15 @@
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Variaveis\Variaveis\Entrada_de_dados\bin\Debug\net7.0\Entrada_de_dados.exe
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Variaveis\Variaveis\Entrada_de_dados\bin\Debug\net7.0\Entrada_de_dados.deps.json
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Variaveis\Variaveis\Entrada_de_dados\bin\Debug\net7.0\Entrada_de_dados.runtimeconfig.json
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Variaveis\Variaveis\Entrada_de_dados\bin\Debug\net7.0\Entrada_de_dados.dll
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Variaveis\Variaveis\Entrada_de_dados\bin\Debug\net7.0\Entrada_de_dados.pdb
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Variaveis\Variaveis\Entrada_de_dados\obj\Debug\net7.0\Entrada_de_dados.csproj.AssemblyReference.cache
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Variaveis\Variaveis\Entrada_de_dados\obj\Debug\net7.0\Entrada_de_dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Variaveis\Variaveis\Entrada_de_dados\obj\Debug\net7.0\Entrada_de_dados.AssemblyInfoInputs.cache
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Variaveis\Variaveis\Entrada_de_dados\obj\Debug\net7.0\Entrada_de_dados.AssemblyInfo.cs
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Variaveis\Variaveis\Entrada_de_dados\obj\Debug\net7.0\Entrada_de_dados.csproj.CoreCompileInputs.cache
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Variaveis\Variaveis\Entrada_de_dados\obj\Debug\net7.0\Entrada_de_dados.dll
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Variaveis\Variaveis\Entrada_de_dados\obj\Debug\net7.0\refint\Entrada_de_dados.dll
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Variaveis\Variaveis\Entrada_de_dados\obj\Debug\net7.0\Entrada_de_dados.pdb
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Variaveis\Variaveis\Entrada_de_dados\obj\Debug\net7.0\Entrada_de_dados.genruntimeconfig.cache
+C:\Users\anne1\Documents\Cursos\FULL-STACK SENAI\Codificação Back-End\Parte 2\Estudo e Exercícios\PrimeiroProjeto\Nélio\Variaveis\Variaveis\Entrada_de_dados\obj\Debug\net7.0\ref\Entrada_de_dados.dll
